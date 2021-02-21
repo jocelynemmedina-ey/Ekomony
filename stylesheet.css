@@ -1,0 +1,20 @@
+h1 {
+  font-family:arial;
+  font-size: 40px;
+  color: white;
+  text-align:center;
+}
+
+h3 {
+  font-family: arial;
+  color: #C9E265;text-align:center;
+  font-size: 25px;
+}
+
+p{
+  font-family: arial;
+}
+
+.img2{
+  border-radius: 8%;
+}
