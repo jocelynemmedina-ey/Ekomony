@@ -1,1 +1,1 @@
-# Ekonomy
+# Ekomony
